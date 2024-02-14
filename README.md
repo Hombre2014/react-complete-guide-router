@@ -10,11 +10,11 @@ React Router tutorial.
 
 ### Clone the repository
 
-`git clone (https://github.com/Hombre2014/react-complete-router.git)`
+`git clone (https://github.com/Hombre2014/react-complete-guide-router.git)`
 
 ### Change the directory
 
-`cd react-complete-router`
+`cd react-complete-guide-router`
 
 ### Install dependencies
 
@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre/react-complete-router/issues).
+Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-router/issues).
 
 ## Show your support
 
